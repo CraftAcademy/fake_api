@@ -1,5 +1,5 @@
 {
-  "assignmets": [
+  "assignments": [
     {
       "id": 1,
       "title": "new webpage",
@@ -14,5 +14,9 @@
       "skills": "ruby, rails",
       "budget": 100
     }
+  ],
+  "users": [
+    {"name": "Thomas", "role": "coach"},
+    {"name": "Thadeus", "role": "student"}
   ]
 }
